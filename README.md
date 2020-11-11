@@ -13,8 +13,7 @@
 ## 関連ドキュメント
 * 各種マニュアル https://github.com/japanflyinglabs/docs4dronebirds/tree/master/SOPs
 * チェックリスト https://github.com/japanflyinglabs/docs4dronebirds/tree/master/checklist
-* Cirtification https://github.com/dronebird/docs4dronebirds/tree/master/Certification
-
+* Cirtification https://github.com/japanflyinglabs/docs4dronebirds/tree/master/Certification
 ### アドベントカレンダー
 * 2018 https://qiita.com/advent-calendar/2018/dronebird
 * 2019 https://qiita.com/advent-calendar/2019/dronebird
