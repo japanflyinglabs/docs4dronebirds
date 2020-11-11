@@ -12,7 +12,7 @@
 
 ## 関連ドキュメント
 * 各種マニュアル https://github.com/japanflyinglabs/docs4dronebirds/tree/master/SOPs
-* チェックリスト https://github.com/dronebird/docs4dronebirds/tree/master/checklist
+* チェックリスト https://github.com/japanflyinglabs/docs4dronebirds/tree/master/checklist
 * Cirtification https://github.com/dronebird/docs4dronebirds/tree/master/Certification
 
 ### アドベントカレンダー
