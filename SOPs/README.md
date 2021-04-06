@@ -1,7 +1,7 @@
 # SOPs - Standard operating procedure
 ### 1. ドローン操縦者、補助員および監視員は下記を遵守することを基本とする。
-* 国土交通省包括申請マニュアル
-* 航空法132条3運用ガイドライン
+* [国土交通省包括申請マニュアル](https://github.com/japanflyinglabs/docs4dronebirds/blob/master/SOPs/20200916%E4%B8%80%E9%83%A8%E6%94%B9%E6%AD%A3%E8%88%AA%E7%A9%BA%E6%B3%95132%E6%9D%A13%E9%81%8B%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf)
+* [航空法132条3運用ガイドライン](
 * [FISS:Flight Information Sharing System](https://www.fiss.mlit.go.jp/top) 
 
 ### 2．飛行・空撮作業計画書を作成する（練習を除く）
