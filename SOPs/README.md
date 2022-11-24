@@ -9,7 +9,7 @@
 
 [国交省の無人航空機の飛行ルール](https://www.mlit.go.jp/koku/koku_tk10_000003.html)は頻繁に更新されるので、常にサイトでチェックすること
 
-* [無人航空機飛行マニュアル　航空局標準マニュアル②　令和3年10月1日](https://www.mlit.go.jp/common/001218180.pdf)
+* [無人航空機飛行マニュアル　航空局標準マニュアル②](https://www.mlit.go.jp/common/001218180.pdf)
 * [航空法132条3運用ガイドライン](https://github.com/japanflyinglabs/docs4dronebirds/blob/master/SOPs/20220606%E4%B8%80%E9%83%A8%E6%94%B9%E6%AD%A3%E8%88%AA%E7%A9%BA%E6%B3%95%E7%AC%AC132%E6%9D%A1%E3%81%AE3%E9%81%8B%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf)
 * [FISS:Flight Information Sharing System](https://www.fiss.mlit.go.jp/top) 
  
