@@ -35,7 +35,7 @@
 * 緊急および主要連絡先
 * 撮影に係るガイドライン
 #### 飛行について
- 1. 飛行チェックリストで機材・環境条件その他を確認 
+ 1. [飛行チェックリスト](https://github.com/japanflyinglabs/docs4dronebirds/tree/master/checklist)で機材・環境条件その他を確認 
  2. 高度100-150m上空からの静止画像撮影　（災害時　150ｍ上）
  3. オーバーラップ/サイドラップ 70%以上
  4. 原則オートパイロット
@@ -43,7 +43,7 @@
  6. コミュニケーションはZelloでおこなう。事故の際の保険申請はZelloの録音情報を使用する
  7. そのほか連絡事項（SNS ハッシュタグ、クレジット）
  8. 持参するべき必要書類またはURL　（無人航空機の飛行に係る許可・承認書や自治体との災害協定書,技能証明書、機体認証書、飛行日誌など）
- 9. 飛行日誌で飛行記録をする
+ 9. 飛行日誌で[飛行記録](https://github.com/japanflyinglabs/docs4dronebirds/blob/master/SOPs/%E6%A7%98%E5%BC%8F1%E9%A3%9B%E8%A1%8C%E8%A8%98%E9%8C%B2.pdf)をする
 ### 3. リスク管理
 考えられるリスクを洗い出しどう対処するか準備するとともに、リスク低減の措置を常に考える。
 機械は壊れる。飛んでいるものはありとあらゆる可能性（不可抗力、操縦ミスなど）で落ちる可能性がある
@@ -59,7 +59,7 @@
  8. ライセンスはCC BY 4.0。ライセンス表記は ” ©CrisisMappersJapan/DRONEBIRD, CC BY 4.0” とする
 ## D. Maintenance & Training
  1. [無人航空機の飛行日誌の取り扱いに関するガイドライン](https://www.mlit.go.jp/common/001599241.pdf) に沿って
-   * 点検・整備記録　- 飛行前点検, 飛行終了時点検, 定期点検　整備の記録を取る
+   * 点検・整備記録　- [飛行前点検, 飛行終了時点検](https://github.com/japanflyinglabs/docs4dronebirds/blob/master/SOPs/%E6%A7%98%E5%BC%8F2%E6%97%A5%E5%B8%B8%E7%82%B9%E6%A4%9C.pdf), [定期点検　整備](https://github.com/japanflyinglabs/docs4dronebirds/blob/master/SOPs/%E6%A7%98%E5%BC%8F3%E7%82%B9%E6%A4%9C%E6%95%B4%E5%82%99%E8%A8%98%E9%8C%B2.pdf)の記録を取る
    * 飛行日誌の作成
  2. 訓練　- 定期訓練によりドローン操縦技術や安全確保の仕方を習得するだけでなくMapping Toolの使い方も訓練する
  
