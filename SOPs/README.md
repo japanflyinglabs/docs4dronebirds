@@ -10,6 +10,7 @@
 * [国土交通省の無人航空機の飛行ルール](https://www.mlit.go.jp/koku/koku_tk10_000003.html):　頻繁に更新されるので、常にサイトでチェックすること
 * [無人航空機の飛行の安全に関する教則　第3版](https://www.mlit.go.jp/common/001602108.pdf)
 * [航空法132条の92の適用を受け無人航空機を飛行させる場合の運用ガイドライン](https://www.mlit.go.jp/common/001110204.pdf) (捜索、救助等のための特例）
+  参考：[航空法第132条92の特例適用の対象となり得る事例](https://www.mlit.go.jp/koku/content/001846242.pdf)
  
  参考：
  * [国土交通省の無人航空機総合窓口サイト](https://www.mlit.go.jp/koku/info/index.html)
